@@ -4,9 +4,9 @@
 </h1>
 <h3 align="center">Computer Science SoICT@HUST | Business AI Lab @NEU</h3>
 
-- 🏫 2nd-year in **Computer Science** at [**Hanoi University of Science and Technology**](https://soict.hust.edu.vn/en/)
-- 📃 **Lab Assistant** at [**Business AI Lab**](https://web.facebook.com/business.ai.lab)
-- 💼 **AI R&D Collaborator** at [**VNPT Cyber Immunity**](https://sec.vnpt.vn/)
+📌 🏫 Second-year in **Computer Science** at [**Hanoi University of Science and Technology**](https://soict.hust.edu.vn/en/)<br>
+📌 📃 **Lab Assistant** at [**Business AI Lab**](https://web.facebook.com/business.ai.lab)<br>
+📌 💼 **AI R&D Collaborator** at [**VNPT Cyber Immunity**](https://sec.vnpt.vn/)<br>
 
 ###
 
