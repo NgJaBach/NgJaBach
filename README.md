@@ -1,9 +1,18 @@
-<h1 align="center">Hi 👋, I'm Bach</h1>
+<h1 align="center">
+  Hi there, I'm NgJaBach (Gia-Bach Nguyen)
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Waving hand">
+</h1>
 <h3 align="center">Business AI Lab | Junior AI Researcher.</h3>
 
 - 🏫 2nd-year in **Computer Science** at [**Hanoi University of Science and Technology**](https://soict.hust.edu.vn/en/).
 - 🔭 **AI R&D Intern** at [**VNPT Cyber Immunity**](https://sec.vnpt.vn/).
 - 📃 **Lab Assistant** at [**Business AI Lab**]().
+
+  <p>
+    🧩 Beyond coding & research, I'm a Rubik's Cube enthusiast (3x3, 2x2)!
+    <br/>
+    Check my <a href="https://www.worldcubeassociation.org/persons/2013ZHUY01">WCA Profile: 2013ZHUY01</a>.
+  </p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ngjabach&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
