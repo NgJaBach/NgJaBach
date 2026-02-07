@@ -39,8 +39,10 @@
 </div>
 
 </br>
+</br>
 
 <div align="center">
+
 > 别人笑我太疯癫，
 >
 > *People laugh at me, saying I'm mad,*
@@ -56,6 +58,7 @@
 > 无花无酒锄作田。
 >
 > *No flowers, no wine—only barren fields.*
+
 </div>
 
 ###
