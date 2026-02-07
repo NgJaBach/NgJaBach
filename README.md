@@ -16,7 +16,7 @@
 </div> -->
 
 <div align="center">
-  <img height="200" src="[https://tenor.com/bZCdP.gif](https://media1.tenor.com/m/FbvQSfAuOEYAAAAC/lc-lobotomy-corporation.gif)"  />
+  <img height="200" src="https://media1.tenor.com/m/FOgoqoyFjvoAAAAC/lobotomy-corporation-angela.gif"  />
   
   >*求之不得<br>
   >寤寐思服<br>
