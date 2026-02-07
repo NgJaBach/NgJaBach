@@ -53,4 +53,11 @@
 > *Now barren fields, no blooms nor wine at hand.*
 </div>
 
+People laugh at me, saying I'm mad,
+I laugh at them, for they cannot see.
+Have they not seen the nobles' graves?
+No flowers, no wine-- only barren fields.
+
+
+
 ###
