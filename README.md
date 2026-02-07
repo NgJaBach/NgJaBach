@@ -16,7 +16,7 @@
 </div> -->
 
 <div align="center">
-  <img height="200" src="[https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTF0cG1nOXo0YnJneXpxd3Q3eXFpa2tlcHkxMTdqMWpwcWhnaTV5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M68ca96XBQiCQ/giphy.gif](https://tenor.com/bZCdP.gif)"  />
+  <img height="200" src="https://tenor.com/bZCdP.gif"  />
   
   >*求之不得<br>
   >寤寐思服<br>
