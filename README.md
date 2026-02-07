@@ -15,10 +15,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ngjabach&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div> -->
 
-<div class="tenor-gif-embed" data-postid="27038923" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/lc-lobotomy-corporation-bendjamin-lc-ayin-lc-angela-lc-gif-27038923">Lc Lobotomy Corporation GIF</a>from <a href="https://tenor.com/search/lc-gifs">Lc GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
 <div align="center">
-  <!-- <img height="200" src="https://tenor.com/bZCdP.gif"  /> -->
+  <img height="200" src="[https://tenor.com/bZCdP.gif](https://media1.tenor.com/m/FbvQSfAuOEYAAAAC/lc-lobotomy-corporation.gif)"  />
   
   >*求之不得<br>
   >寤寐思服<br>
