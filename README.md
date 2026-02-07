@@ -23,13 +23,14 @@
 
 ### 🏆 Achievements & Certifications
 
-| Category    | Title                                     | Organization                                |
-|-------------|-------------------------------------------|---------------------------------------------|
-| **Work**    | AI R&D Collaborator                       | VNPT Cyber Immunity                         |
-| **Research**| Lab Assistant                             | Business AI Lab, NEU                        |
-| **Education** | B.S. in Computer Science                  | Hanoi University of Science and Technology  |
-| **Cert.**   | *[Your Certification Name]*               | *[Issuing Organization]*                     |
-| **Cert.**   | *[Your Certification Name]*               | *[Issuing Organization]*                     |
+| Category    | Title                                     | Organization                                | Link    |
+|-------------|-------------------------------------------|---------------------------------------------|---------|
+| **-**       | -                                         | -                                           |         |
+| **-**       | -                                         | -                                           |         |
+
+<div align="center">
+  <i>More achievements and certifications coming soon...</i>
+</div>
 
 ---
 
@@ -38,26 +39,19 @@
   
 > 别人笑我太疯癫，
 >
-> *Let men laugh at my folly unspun,*
+> *People laugh at me, saying I'm mad,*
 >
 > 我笑他人看不穿。
 >
-> *I laugh—they see not how the world’s undone!*
+> *I laugh at them, for they cannot see.*
 >
 > 不见五陵豪杰墓，
 >
-> *Behold the tombs of heroes once grand,*
+> *Have they not seen the nobles' graves?*
 >
 > 无花无酒锄作田。
 >
-> *Now barren fields, no blooms nor wine at hand.*
+> *No flowers, no wine—only barren fields.*
 </div>
-
-People laugh at me, saying I'm mad,
-I laugh at them, for they cannot see.
-Have they not seen the nobles' graves?
-No flowers, no wine-- only barren fields.
-
-
 
 ###
