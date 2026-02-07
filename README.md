@@ -29,14 +29,16 @@
 | **-**       | -                                         | -                                           |         |
 
 <div align="center">
-  <i>Coming soon 😀😀😀</i>
+  <i>Coming soon</i> 😀😀😀
 </div>
 
 ---
 
 <div align="center">
   <img height="200" src="https://media1.tenor.com/m/FbvQSfAuOEYAAAAd/lc-lobotomy-corporation.gif"  />
+
   <br>
+  
 > 别人笑我太疯癫，
 >
 > *People laugh at me, saying I'm mad,*
