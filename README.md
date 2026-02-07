@@ -16,7 +16,8 @@
 </div> -->
 
 <div align="center">
-  <img height="200" src="https://tenor.com/bZCdP.gif"  />
+  <!-- <img height="200" src="https://tenor.com/bZCdP.gif"  /> -->
+  <div class="tenor-gif-embed" data-postid="27038923" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/lc-lobotomy-corporation-bendjamin-lc-ayin-lc-angela-lc-gif-27038923">Lc Lobotomy Corporation GIF</a>from <a href="https://tenor.com/search/lc-gifs">Lc GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
   
   >*求之不得<br>
   >寤寐思服<br>
