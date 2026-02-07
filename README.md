@@ -18,15 +18,17 @@
 <div align="center">
   <img height="200" src="https://media1.tenor.com/m/FbvQSfAuOEYAAAAd/lc-lobotomy-corporation.gif"  />
   
-  >*求之不得<br>
-  >寤寐思服<br>
-  >悠哉悠哉<br>
-  >輾轉反側*<br>
-  
-  >*If he could not find her,<br>
-  >he would think of her, waking and sleeping.<br>
-  >How long, how long may he ponder;<br>
-  >on and on, he tosses and turns.*
+别人笑我太疯癫，
+Let men laugh at my folly unspun,
+
+我笑他人看不穿。
+I laugh—they see not how the world’s undone!
+
+不见五陵豪杰墓，
+Behold the tombs of heroes once grand,
+
+无花无酒锄作田。
+Now barren fields, no blooms nor wine at hand.
 </div>
 
 ###
