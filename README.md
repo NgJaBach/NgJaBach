@@ -44,19 +44,15 @@
 <div align="center">
 
 > 别人笑我太疯癫，
->
 > *People laugh at me, saying I'm mad,*
 >
 > 我笑他人看不穿。
->
 > *I laugh at them, for they cannot see.*
 >
 > 不见五陵豪杰墓，
->
 > *Have they not seen the nobles' graves?*
 >
 > 无花无酒锄作田。
->
 > *No flowers, no wine—only barren fields.*
 
 </div>
