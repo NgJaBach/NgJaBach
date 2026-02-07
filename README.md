@@ -47,7 +47,7 @@
 > *People laugh at me, saying I'm mad,*
 >
 > 我笑他人看不穿。
-> *I laugh at them, for they cannot see.*
+> *I laugh back at them, for they cannot see.*
 >
 > 不见五陵豪杰墓，
 > *Have they not seen the nobles' graves?*
