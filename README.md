@@ -16,7 +16,7 @@
 - 🎓 Second-year **Computer Science** student at [**Hanoi University of Science and Technology (HUST)**](https://soict.hust.edu.vn/en/).
 - 🔬 **AI Researcher** at [**Business AI Lab, NEU**](https://web.facebook.com/business.ai.lab), focusing on practical AI applications in business.
 - 💼 **AI R&D Collaborator** at [**VNPT Cyber Immunity**](https://sec.vnpt.vn/), working on cutting-edge AI for cybersecurity.
-- 🌱 I'm currently researching on the topic of **Natural Language Processing (NLP)** and **Multi-Agent**, as well as their applications in Healthcare and Security.
+- 🌱 I'm currently researching on the topic of **Natural Language Processing (NLP)** and **Multi-Agent**, as well as their applications in healthcare and cybersecurity.
 - 📫 Feel free to reach out to me at: **Bach.NG2416130@sis.hust.edu.vn**
 
 ---
